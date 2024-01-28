@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510548951032",
+    "firebase_url": "https://uikit-dcaca.firebaseio.com",
+    "project_id": "uikit-dcaca",
+    "storage_bucket": "uikit-dcaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510548951032:android:11ddaf09ae65bbcd64600d",
+        "android_client_info": {
+          "package_name": "com.ui_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510548951032-laa39i07opbvcsee9f39u9pnau81q5lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ui_kit",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "510548951032-nvsfi8394frm90a2s3nmsv90t8hca0or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDckR27Yt-iiKKVcFffx0qYxMt1Ou49sQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510548951032-nvsfi8394frm90a2s3nmsv90t8hca0or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
